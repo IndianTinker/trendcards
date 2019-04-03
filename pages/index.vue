@@ -27,7 +27,7 @@ export default {
         { field: "Market", trend: "Reputation Trading" },
         {
           field: "Market",
-          trend: "Co-creation and Collaboration: Participatory economy"
+          trend: "Co-creation & Collaboration"
         },
         { field: "Market", trend: "Cross Industry Business Model" },
         { field: "Market", trend: "Bitcoin" },

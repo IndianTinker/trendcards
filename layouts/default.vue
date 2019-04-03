@@ -1,5 +1,5 @@
 <template>
-  <div class="mw9 w-100 pa4-ns pa4 ph5-ns system-sans-serif">
+  <div class="mw9 w-100 pa4-ns pa3 ph5-ns system-sans-serif">
     <topbar message="About"/>
     <nuxt/>
   </div>
