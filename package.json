@@ -1,0 +1,23 @@
+{
+  "name": "trendcards",
+  "version": "1.0.0",
+  "description": "Deflexor",
+  "author": "indiantinker",
+  "private": true,
+  "scripts": {
+    "deploy": "push-dir --dir=dist --branch=gh-pages --cleanup",
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "cross-env": "^5.2.0",
+    "nuxt": "^2.4.0",
+    "tachyons": "^4.11.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.9",
+    "push-dir": "^0.4.1"
+  }
+}
